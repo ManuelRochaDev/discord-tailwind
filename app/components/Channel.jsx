@@ -1,8 +1,10 @@
+import { LuChevronDown, LuHash } from "react-icons/lu";
+
 const Channel = () => {
     return (
-        <div className="flex h-8 items-center bg-zinc-800 hover:bg-zinc-700 text-zinc-400 hover:text-zinc-200 rounded-md mx-2">
-            <div className="ml-1 mr-2 text-2xl">+</div>
-            <div className="">general</div>
+        <div className="flex h-8 items-center hover:bg-gray-4 text-text-gray hover:text-gray rounded-md mx-2">
+            <div className="ml-1 mr-1 text-md"><LuHash/></div>
+            <div className="text-sm">general</div>
         </div>
     )
 }

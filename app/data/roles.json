@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "SOME ROLE",
+        "users": 3,
+        "color": "yellow"
+    },
+    {
+        "id": 2,
+        "name": "ANOTHER ROLE",
+        "users": 2,
+        "color": "red"
+    }
+]

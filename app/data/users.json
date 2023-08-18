@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "User 1",
+        "status": "online",
+        "roleId": 1,
+        "playing": "a nice game"
+    },
+    {
+        "id": 2,
+        "name": "User 2",
+        "status": "online",
+        "roleId": 1,
+        "playing": "Spotify"
+    },
+    {
+        "id": 3,
+        "name": "User 2",
+        "status": "dnb",
+        "roleId": 1,
+        "playing": null
+    },
+    {
+        "id": 1,
+        "name": "User 5",
+        "status": "idle",
+        "roleId": 2,
+        "playing": "another nice game"
+    },
+    {
+        "id": 2,
+        "name": "User 5",
+        "status": "online",
+        "roleId": 2,
+        "playing": "Spotify"
+    }
+]
