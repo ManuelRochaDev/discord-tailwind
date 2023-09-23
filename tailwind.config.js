@@ -8,17 +8,19 @@ module.exports = {
   theme: {
     colors: {
       'white': '#FFFFFF',
+      'black': '#000000',
       'gray-1': '#A5AAB1',
       'gray-2': '#6B7079',
-      'gray-3': '#27292C',
-      'gray-4': '#252729',
-      'gray-5': '#242427',
-      'gray-6': '#1E1E21',
+      'gray-3': '#313338',
+      'gray-4': '#2b2d31',
+      'gray-5': '#2b2d31',
+      'gray-6': '#1E1F22',
       'gray-7': '#1A1B1D',
       'red': '#DB3A3A',
       'green': '#3B914F',
       'text-gray': '#808991',
-      'yellow': '#E1B434'
+      'yellow': '#E1B434',
+      'blue': '#546bea'
     },
     extend: {
       backgroundImage: {

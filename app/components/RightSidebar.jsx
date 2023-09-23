@@ -7,7 +7,7 @@ import users from "@/app/data/users.json"
 const RightSidebar = ({ }) => {
 
     return (
-        <aside className="w-72 bg-gray-5 items-stretch px-2 h-screen">
+        <aside className="w-60 bg-gray-4 items-stretch px-2 h-screen">
             {roles.map(role =>
                 <>
                     <Role text={role.name + " — " + roles.length} />
